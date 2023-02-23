@@ -1,0 +1,20 @@
+c:\users\investor_dm_\documents\visual studio 2015\Projects\granja\granja\bin\Debug\granja.exe.config
+c:\users\investor_dm_\documents\visual studio 2015\Projects\granja\granja\bin\Debug\granja.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\granja\granja\bin\Debug\granja.pdb
+c:\users\investor_dm_\documents\visual studio 2015\Projects\granja\granja\obj\Debug\granja.csprojResolveAssemblyReference.cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\granja\granja\obj\Debug\granja.Form1.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\granja\granja\obj\Debug\granja.Properties.Resources.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\granja\granja\obj\Debug\granja.csproj.GenerateResource.Cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\granja\granja\obj\Debug\granja.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\granja\granja\obj\Debug\granja.pdb
+C:\Users\Investor_DM_\Documents\Visual Studio 2015\Projects\granja\granja\bin\Debug\Calculus.dll
+P:\Projects C#\granja\granja\bin\Debug\granja.exe.config
+P:\Projects C#\granja\granja\obj\Debug\granja.exe
+P:\Projects C#\granja\granja\obj\Debug\granja.pdb
+P:\Projects C#\granja\granja\bin\Debug\granja.exe
+P:\Projects C#\granja\granja\bin\Debug\granja.pdb
+P:\Projects C#\granja\granja\bin\Debug\Calculus.dll
+P:\Projects C#\granja\granja\obj\Debug\granja.csprojResolveAssemblyReference.cache
+P:\Projects C#\granja\granja\obj\Debug\granja.Form1.resources
+P:\Projects C#\granja\granja\obj\Debug\granja.Properties.Resources.resources
+P:\Projects C#\granja\granja\obj\Debug\granja.csproj.GenerateResource.Cache
